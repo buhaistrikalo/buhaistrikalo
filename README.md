@@ -9,7 +9,7 @@ const KIRILL = {
         frontEnd: {
             js: ["React.js"],
             html: ["BEM"],
-            css: ["SCSS", "Less", "SASS"],
+            css: ["SASS", "Less"],
         },
         gameDev: {
             native: ["Lua script", "C#"]
