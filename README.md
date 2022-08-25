@@ -2,8 +2,8 @@
 ## 🔗 Связь со мной
 [![Telegram Badge](https://img.shields.io/badge/Telegram-fff?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/kirilltcoi)
 
-## ⌨️ Актуальные пет-проекты
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=buhaistrikalo&repo=svoi-todo-list&theme=radical)](svoi-todo-list)
+<!-- ## ⌨️ Актуальные пет-проекты
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=buhaistrikalo&repo=svoi-todo-list&theme=radical)](svoi-todo-list) -->
 
 ## 🔨 Мой актуальный стек
 <!-- sypress jest  -->
